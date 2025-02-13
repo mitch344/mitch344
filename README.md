@@ -1,6 +1,6 @@
 # 👋 About Me  
 
-Hi! I'm a passionate Computer Science enthusiast from the US 🇺🇸.  
+Hi! I'm a passionate Computer Science enthusiast from the US.  
 I've been messing around with computers my entire life, and I love exploring new technologies, building projects, and optimizing systems.  
 
 ### 💻 My Background  
