@@ -1,13 +1,12 @@
 # 👋 About Me  
-
-Hi! I'm a passionate Computer Science enthusiast from the US.  
+ 
 I've been messing around with computers my entire life, and I love exploring new technologies, building projects, and optimizing systems.  
 
 ### 💻 My Background  
 - 💡 **Tinkerer**: Always experimenting with new tech and concepts  
 - 🚀 **GitHub User**: I use GitHub to learn new skills, contribute, and test things out  
-- 💼 **Work Experience**: Worked as a software engineer and in a few other technical roles
-- 🎓 **Education**: Computer Science (Undergrad & Graduate)  
+- 💼 **Work Experience**: A few technical roles
+- 🎓 **Education**: Computer Science
 
 ---
 
